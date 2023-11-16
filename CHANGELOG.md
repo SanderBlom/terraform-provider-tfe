@@ -2,6 +2,9 @@
 <!-- Add CHANGELOG entry to this section for any PR awaiting the next release -->
 <!-- Please also include if this is a Bug Fix, Enhancement, or Feature -->
 
+FEATURES:
+* **New Resource**: `r/tfe_project_oauth_client` is a new resource to attach/detach an existing `project` to an existing `oauth client`, by @Netra2104 [1144](https://github.com/hashicorp/terraform-provider-tfe/pull/1144)
+
 ENHANCEMENTS:
 * `r/tfe_variable_set`: Add `priority` attribute, by @Netra2104 [1075](https://github.com/hashicorp/terraform-provider-tfe/pull/1075)
 * `d/tfe_variable_set`: Add `priority` attribute, by @Netra2104 [1075](https://github.com/hashicorp/terraform-provider-tfe/pull/1075)
