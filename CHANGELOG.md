@@ -2,6 +2,9 @@
 <!-- Add CHANGELOG entry to this section for any PR awaiting the next release -->
 <!-- Please also include if this is a Bug Fix, Enhancement, or Feature -->
 
+FEATURES:
+* `r/tfe_oauth_client`: Add `organization_scoped` attribute, by @Netra2104 [1142](https://github.com/hashicorp/terraform-provider-tfe/pull/1142)
+
 ## v0.50.0
 
 FEATURES:
